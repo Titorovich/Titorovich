@@ -4,6 +4,7 @@ I'm delighted to have you here! Feel free to explore my repositories and project
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/mikicit) <br>
 [Progress of studies at CTU in Prague (closed subjects, semester projects and homework)](https://github.com/mikicit/ctu)
+[My LeetCode profile](https://leetcode.com/u/mikicit/)
 
 If you have any questions, feedback, or opportunities for collaboration, please don't hesitate to reach out. I'm always open to connecting with fellow developers and enthusiasts.
 
